@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://github.com/andrasistemaserp/moveit">
-    <img alt="Logo moveit" src="./public/logo-full.svg" width="500px" />
-  </a>
-</h1>
+<h1 align="center">chat-api</h1>
 
 <p align="center">
  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
