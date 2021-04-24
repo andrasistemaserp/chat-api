@@ -14,7 +14,7 @@
 
 Projeto desenvolvido na Next Level Week quinta edição (NLW#05) na trilha de Node.js pela <a href="https://rocketseat.com.br">Rocketseat</a>
 
-Criação de um chat.
+Criação de um chat e pode ser testado do lado do usuário (http://localhost:3333/pages/client) e do admin (http://localhost:3333/pages/admin) .
 
 <a id="tecnologias"></a><br>
 
