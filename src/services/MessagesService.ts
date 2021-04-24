@@ -26,7 +26,6 @@ class MessagesService {
     await this.messagesRepository.save(message);
 
     return message;
-
   }
 
   async listByUser(user_id: string) {
@@ -36,8 +35,8 @@ class MessagesService {
     })
 
     return list;
-
   }
+  
 }
 
 export { MessagesService };
